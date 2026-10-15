@@ -13,7 +13,7 @@ title                    : "Dr. Abdur Rehman"
 title_separator          : "-"
 name                     : &name "Abdur Rehman"
 description              : &description "Researcher in PM machines, with a focus on advanced flux-modulation topologies"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://dr-abdur-rehman.github.io",
+url                      : https://dr-abdur-rehman.github.io # The base hostname & protocol for your site e.g. "https://dr-abdur-rehman.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dr-abdur-rehman/dr-abdur-rehman.github.io"
