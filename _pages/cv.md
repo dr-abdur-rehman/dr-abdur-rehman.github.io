@@ -9,56 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/Abdur_Rehman_CV.pdf" class="btn btn--primary">Download full CV (PDF)</a>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D., Electrical Engineering**, Kunsan National University, South Korea, 2023
+  * Thesis: *Design and Comparative Analysis of Flux Modulation Machines for MW-Scale Direct Drive Wind Turbine Applications*
+* **M.S., Electrical Engineering**, Kunsan National University, South Korea, 2019
+  * Thesis: *Torque Density Maximization of Vernier Machine by Using Series Compensation*
+* **B.Sc., Electrical Engineering**, FUUAST, Islamabad, Pakistan, 2015
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Independent Researcher**, Islamabad, Pakistan (Oct 2025 – present)
+  * Power-factor-constrained design of MW-scale PM Vernier generators; AI-assisted design with FEA-based surrogate models
+* **Postdoctoral Fellow**, Inha University, South Korea (Sep 2023 – Oct 2025)
+  * PM Vernier machines for urban air mobility propulsion; low-cost ferrite-magnet Vernier machines; MATLAB–Ansys Maxwell design automation
+* **Postdoctoral Researcher**, Kunsan National University, South Korea (Jan 2023 – Jun 2023)
+  * Comparative design of flux-modulation generators for a 20 MW direct-drive wind turbine
+* **Graduate Research Assistant**, Kunsan National University, South Korea (Mar 2017 – Dec 2022)
+  * Equivalent magnetic circuit modeling, series compensation, and MW-scale Vernier generator design
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experimental and hardware experience
+======
+* Tested three PM Vernier prototypes and an IPM machine in the laboratory
+* Microcontroller and DSP programming (TMS320F28335); inverter and power-supply design
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **FEA:** Ansys Maxwell, FEMM, JMAG
+* **Multiphysics:** Ansys Motor-CAD (thermal)
+* **Programming and automation:** MATLAB, Python, VBScript, C/C++
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+7 journal articles and 12 conference papers. See the [Publications](/publications/) page for the full list.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Workshop Instructor, FUUAST, Islamabad, Pakistan (2016 – 2017). See the [Teaching](/teaching/) page.

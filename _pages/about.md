@@ -7,27 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I am an electrical machine design researcher specializing in permanent magnet (PM) machines, with a focus on advanced flux-modulation topologies such as PM Vernier and spoke-type machines. My work centers on high-torque-density machines for direct-drive applications, particularly MW-scale wind generators.
+I am an electrical machine design researcher working on high-performance permanent magnet (PM) and flux-modulation machines, with a focus on PM Vernier machines. My work spans MW-scale direct-drive wind generators and electric propulsion for urban air mobility, with particular emphasis on **rare-earth-free ferrite-magnet** and **reduced-magnet (consequent-pole)** designs that cut the use of critical materials.
 
-I received my PhD from Kunsan National University, South Korea, and held two postdoctoral positions in South Korea, including at Inha University. I am currently an independent researcher based in Islamabad, Pakistan.
+I received my Ph.D. in Electrical Engineering from Kunsan National University, South Korea (2023), and held postdoctoral positions at Kunsan National University and Inha University. I am currently an independent researcher based in Islamabad, Pakistan, and maintain active collaboration with my former research groups in Korea.
+
+My work combines analytical and equivalent-magnetic-circuit modeling, electromagnetic FEA, and automated design frameworks, together with experimental validation: I have tested three PM Vernier prototypes and an IPM machine in the laboratory.
 
 ## Research interests
 
-- PM Vernier and flux-modulation machine design and analysis
-- High-torque-density direct-drive generators for MW-scale wind turbines
-- Power factor and torque density trade-offs
-- FEA-based design and optimization of PM machines
+- High-performance, high-torque-density electric machines for demanding applications
+- Critical-material-lean machines: ferrite-magnet and consequent-pole PM Vernier topologies
+- Analytical, equivalent-magnetic-circuit, and FEA-based design of flux-modulation machines
+- Reverse engineering, benchmarking, and redesign of commercial electric machines
+- Multiphysics and AI-assisted design optimization of electric machines
 
 ## Current directions
 
-I am developing AI/ML-driven design approaches that combine FEA with data-driven surrogate models, aiming to make the design of high-torque-density flux-modulation machines significantly faster.
+- **Power-factor-constrained design** of MW-scale PM Vernier generators using an analytical design framework
+- **AI-assisted design:** a parallel FEMM–MATLAB environment to generate training data for FEA-based surrogate models, with Ansys Maxwell for high-fidelity verification
+- **Axial-flux flux-modulation machines:** extending Vernier concepts beyond radial-flux designs
 
 ## Tools
 
-- **ANSYS Maxwell**: 2D/3D electromagnetic FEA, scripted model building (VBS)
-- **FEMM**: 2D magnetostatic FEA
+- **Ansys Maxwell**: 2D/3D electromagnetic FEA, VBScript-based automated model building
+- **FEMM**: 2D magnetostatic FEA, scripted from MATLAB
 - **Ansys Motor-CAD**: thermal analysis
-- **MATLAB**: analytical design and design automation
+- **MATLAB / Python**: analytical design, design automation, and data-driven modeling
 
 ## Opportunities
 
