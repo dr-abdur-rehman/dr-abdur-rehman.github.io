@@ -7,6 +7,17 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+# Header menu links (order matters)
 main:
+  - title: "Research"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
